@@ -1,0 +1,17 @@
+{
+  "name": "nukeit-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ivan Liszewski",
+  "license": "MIT",
+  "dependencies": {
+    "@isomorphic-git/cors-proxy": "^2.7.1",
+    "express": "^4.18.2"
+  }
+}
